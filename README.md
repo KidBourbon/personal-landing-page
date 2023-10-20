@@ -1,4 +1,4 @@
-# My Landing Page
+# Personal Landing Page
 ✅ Personal landing page with information about me and my videos published on my YouTube channel.
 
 ✅ Page made with HTML, Tailwind CSS and JavaScript.
